@@ -24,5 +24,6 @@ Primer convé familiaritzar-se amb la auth estàndard. No cal cap paquet addicio
 	/app1/templates
 3. Crea BD (migrate) i un superuser
 4. Arrenca i comprova les auth views mirant http://localhost:8000 i executant abans
+
     $ python manage runserver
 
